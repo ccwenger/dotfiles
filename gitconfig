@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = curtiscwenger@gmail.com
+	name = Curtis Wenger
